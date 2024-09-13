@@ -1,0 +1,129 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@700&display=swap');
+
+@font-face {
+    font-family: 'Pixel-Operator'; 
+    src: url('/fonts/PixelOperator8.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+  }
+body {
+    margin: 0;
+    font-family: "Helvetica";
+    font-size: 14px;
+    color: #fafafa;
+    background-color: #333333;
+}
+
+#contact_container {
+    display: flex;
+    padding: 20px 0px;
+    align-items: center;
+}
+
+#contact_container img {
+    height: 50px;
+    padding: 0 20px 0 0;
+}
+
+#contact_me h1 {
+    text-align: center;
+}
+
+#takbo {
+    font-family: "Pixel-Operator";
+    font-size: 100px;
+}
+
+#eduportal {
+    font-family: 'Inter';
+    font-weight: 700;
+    font-size: 100px;
+}
+
+#moneymatic {
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-weight: 600;
+    font-size: 85px;
+}
+
+.project {
+    height: 250px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.vertical-container-2 {
+    width: 500px;
+    padding: 0 100px;
+}
+
+#projects {
+    background-color: black;
+    color: #fafafa;
+    padding: 100px 0;
+}
+
+#projects h1 {
+    font-size: 80px;
+    text-align: center;
+    padding: 100px 0;
+    margin: 0px;
+}
+
+
+#about {
+    display: flex;
+    padding: 0 100px 0 0;
+}
+
+h1 {
+    font-size: 35px;
+}
+
+section p {
+    font-size:18px;
+    font-family: 'Helvetica-light';
+    line-height: 30px;
+    text-align: justify;
+}
+
+#vertical-container {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+#profile {
+    height: 20em;
+    width: 20em;
+    padding: 5em 9em;
+}
+
+header {
+    padding: 0 0 2em 0;
+}
+
+nav a {
+    font-family: "Helvetica-Bold";
+    color: #fafafa;
+    font-size: 20px;
+    padding: 0 10px;
+    text-decoration: none;
+}
+
+nav {
+    padding: 2em;
+    display: inline-block;
+    justify-content: center;
+    align-items: center;
+    margin: auto;
+}
+
+#name {
+    font-size: 40px;
+}
+
+a {
+    font-family: "Helvetica-Bold";
+}
